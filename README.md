@@ -16,7 +16,7 @@ Review all HTML and CSS code and refactor to meet accessibility standards. Ensur
 
 index.html:
 - Added title;
-- Removed unnecessary header and footer class tags;
+- Removed unnecessary footer class tags;
 - Added alt tags to all content and benefits images;
 - Removed div tags, replaced with header, nav, section, article and aside tags;
 - Fixed missing id so that nav buttons follow correct links;
@@ -25,7 +25,7 @@ index.html:
 
 style.css:
 - Used new header, nav, article, aside tags to match html references;
-- Changed .header and .footer to reflect removed class tafs;
+- Changed .footer to footer to reflect removed class tafs;
 - Reordered code sections to match sequence in html;
 - Removed redundant code by combining article with the same styling under new single class rules;
 - Repeated for aside styling;
