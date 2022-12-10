@@ -70,14 +70,14 @@ p {
     font-size: 16px;
 }
 
-/* Content sections with left placement */
+/* Content container, sections with left placement */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content section {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -90,12 +90,12 @@ p {
     max-height: 200px;
 }
 
-.content section h2 {
+.content article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Benefits sections with right placement */
+/* Benefits aside, sections with right placement */
 .benefits {
     margin-right: 20px;
     padding: 20px;
