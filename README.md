@@ -10,7 +10,7 @@
 
 ### Scope and Purpose
 
-Review all HTML and CSS code and refactor to meet accessibility standards.
+Review all HTML and CSS code and refactor to meet accessibility standards. Ensure the site does not change visually.
 
 ### Overview of Code Changes
 
